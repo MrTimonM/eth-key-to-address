@@ -17,6 +17,8 @@ A simple, secure, and beautiful web tool to convert Ethereum private keys to the
 3. Your Ethereum address will be displayed
 4. Click the "Copy Address" button to copy it to your clipboard
 
+## Live Preview
+https://mrtimonm.github.io/eth-key-to-address/
 ## Security Note
 
 ⚠️ **IMPORTANT**: While this tool is secure (runs entirely in your browser), you should:
